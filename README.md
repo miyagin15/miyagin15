@@ -15,6 +15,11 @@ Welcome to miyagin15's GitHub page.
 </p>
 
 
+### My Resume
+
+https://miyagin15.github.io/resume/
+
+
 <!--
 **miyagin15/miyagin15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
