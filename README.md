@@ -2,9 +2,6 @@
 
 Welcome to miyagin15's GitHub page. 
 
-### My GitHub statistics
-[![Stats](https://github-readme-stats.vercel.app/api?username=miyagin15&count_private=true&show_icons=true&show_icons=true&theme=radical)](https://github.com/miyagin15) [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyagin15&layout=compact&show_icons=true&theme=radical)](https://github.com/miyagin15)
-
 <p align="left">
   <a href="https://github.com/miyagin15/miyagin15/">
     <img src="https://komarev.com/ghpvc/?username=miyagin15" alt="miyagin15" />
@@ -14,10 +11,20 @@ Welcome to miyagin15's GitHub page.
   </a>
 </p>
 
-
 ### My Resume
 
 https://miyagin15.github.io/resume/
+
+### My GitHub statistics
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyagin15&theme=radical" />
+</a>
+ </p>
+<p align="left">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=miyagin15&count_private=true&show_icons=true&theme=radical" />
+</a>
+
 
 
 <!--
